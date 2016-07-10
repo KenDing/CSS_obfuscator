@@ -23,7 +23,7 @@ console.log(obfuscator(classes));
 Также предоставляется возможность протестировать на html файле.  
 HTML для тестирования находится [здесь](https://github.com/toxazol/CSS_obfuscator/tree/master/tests).   
 Main.js осуществляет поиск CSS классов в HTML и формирует  
-массив строк для последущей обработки в obfuscator.js.  
+массив строк для последующей обработки в obfuscator.js.  
 Чтобы запустить тестирование введите в терминале:
 ```
 $ node main.js
